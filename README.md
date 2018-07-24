@@ -2,8 +2,7 @@
 DMIT2025 - PHP/MySQL final project - *Completed on December 12, 2017*
 
 ## Description
-This is my final project for the PHP and MySQL course I've taken at Northern Alberta Institute of Technology (NAIT). This
-the project is a catalogue of Broadway shows and musicals that I have either attended to or would like to attend in the near future.
+This is my final project for the PHP and MySQL course I've taken at Northern Alberta Institute of Technology (NAIT). This project is a catalogue of Church Hymns that I have sung at Christmas.
 More information can be found on the homepage of the website.
 
 Included on this website is a basic CRUD functionality for broadway content. I've also included a login so that an
