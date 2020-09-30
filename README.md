@@ -2,7 +2,7 @@
 DMIT2025 - PHP/MySQL final project - *Completed on December 12, 2017*
 
 ## Description
-This is my final project for the PHP and MySQL course I've taken at Northern Alberta Institute of Technology (NAIT). This project is a catalogue of Church Hymns that I have sung at Christmas.
+This is my final project for the PHP and MySQL course I've taken at Northern Alberta Institute of Technology (NAIT). This project is a catalogue of Church Hymns sung at diferent events.
 More information can be found on the homepage of the website.
 
 Included on this website is a basic CRUD functionality for broadway content. I've also included a login so that an
