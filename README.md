@@ -5,8 +5,9 @@ DMIT2025 - PHP/MySQL final project - *Completed on December 12, 2017*
 This is my final project for the PHP and MySQL course I've taken at Northern Alberta Institute of Technology (NAIT). This project is a catalogue of Church Hymns sung at different events.
 More information about the project can be found on the homepage of the website.
 
-Included on this website is a basic CRUD functionality for broadway content. I've also included a login so that an
-administrator must be logged in prior to accessing these CRUD functions. Additionally, I've added a sidebar for filtering.
+Included on this website is a basic CRUD functionality for hymn content. I've also included a login so that an
+administrator must be logged in prior to accessing these CRUD functions. Additionally, I've added a sidebar for filtering by category, year, composer,
+.
 
 ## Screenshots
 ### Homepage
