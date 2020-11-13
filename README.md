@@ -6,9 +6,7 @@ This is my final project for the PHP and MySQL course I've taken at Northern Alb
 More information about the project can be found on the homepage of the website.
 
 Included on this website is a basic CRUD functionality for broadway content. I've also included a login so that an
-administrator must be logged in prior to accessing these CRUD functions. Additionally, I've added a sidebar for filtering
-and the ability for an administrator to insert a YouTube URL when creating or updating a Broadway show. This YouTube URL will
-be validated to ensure that it is a real YouTube URL which it will then appear as an embedded video.
+administrator must be logged in prior to accessing these CRUD functions. Additionally, I've added a sidebar for filtering.
 
 ## Screenshots
 ### Homepage
