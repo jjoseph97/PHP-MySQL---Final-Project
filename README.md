@@ -6,7 +6,7 @@ This is my final project for the PHP and MySQL course I've taken at Northern Alb
 More information about the project can be found on the homepage of the website.
 
 Included on this website is a basic CRUD functionality for hymn content. I've also included a login so that an
-administrator must be logged in prior to accessing these CRUD functions. Additionally, I've added a sidebar for filtering by category, year, composer,
+administrator must be logged in prior to accessing these CRUD functions. Additionally, I've added a sidebar for filtering by category, composer, year, decade, pusblishers and random hymns.
 .
 
 ## Screenshots
